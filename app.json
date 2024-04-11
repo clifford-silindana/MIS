@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "MISDNN",
+    "slug": "MISDNN",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "e8e379e0-30b4-47cb-ac60-45d1ef4e0588"
+      }
+    }
+  },
+  "name": "MISDNN"
+}
